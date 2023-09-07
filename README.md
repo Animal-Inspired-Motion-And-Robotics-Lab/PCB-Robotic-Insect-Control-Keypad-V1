@@ -4,7 +4,7 @@
 
 ## Description
 
-The Robotic Insect Control Keypad (R.I.C.K.) is a programmable wireless controller based on the powerful ESP32-S3 WiFi/BLE capable MCU. The controller features a two axis joystick, four buttons, five NeoPixel LEDs, a 240x240 pixel TFT backlit display, speaker, accelerometer and a 400 mAh battery for portable play. The board is intended for use in controlling quadripedal robots or it can be used as an arcade platform for game development. We plan to use this controller when demoing out lab's robots and running outreach projects.
+The Robotic Insect Control Keypad (R.I.C.K.) is a programmable wireless controller based on the powerful ESP32-S3 WiFi/BLE capable MCU. The controller features a two axis joystick, four buttons, five NeoPixel LEDs, a 240x240 pixel TFT backlit display, speaker, accelerometer and a 400 mAh battery for portable play. The board is intended for use in controlling quadripedal robots or it can be used as an arcade platform for game development. Our lab (Animal Inspired Motion and Robotics Lab) will is currently using this controller during demos of our robot platforms.
 
 ## Features
 
