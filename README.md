@@ -1,4 +1,4 @@
-# Robotic-Insect-Control-Keypad-V1 (R.I.C.K V1)
+# Robotic-Insect-Control-Keypad-V1 (R.I.C.K.)
 
 <img width="622" alt="R I C K-V1-Top" src="https://github.com/Animal-Inspired-Motion-And-Robotics-Lab/Robotic-Insect-Control-Keypad-V1/assets/91345818/da134722-099c-43f8-919d-395771569c89">
 
