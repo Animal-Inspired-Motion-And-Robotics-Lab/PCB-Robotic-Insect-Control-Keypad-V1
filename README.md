@@ -2,7 +2,7 @@
 
 ![R.I.C.K Top](Photos/R.I.C.K-V1-Top.png)
 
-<iframe src="https://colorado1067.autodesk360.com/shares/public/SH512d4QTec90decfa6e79dfc3d9b9aa1ef6?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+[3D Model](https://a360.co/3PfHDWk)!
 
 ## Description
 
