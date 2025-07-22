@@ -15,6 +15,10 @@ The Robotic Insect Control Keypad (R.I.C.K.) is a programmable wireless controll
 5. Three axis accelerometer
 6.  400 mAh LiPo battery
 
+## Block Diagram
+
+![Block_Diagram](Photos/Schematic.png)
+
 ## Software
 
 Coming soon! Currently under development.
